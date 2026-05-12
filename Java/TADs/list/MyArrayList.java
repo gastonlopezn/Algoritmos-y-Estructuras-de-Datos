@@ -1,4 +1,4 @@
-package Java.TADs.list;
+package java.tads.list;
 
 public class MyArrayList<T> implements List<T> 
 {

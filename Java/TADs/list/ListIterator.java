@@ -1,4 +1,4 @@
-package Java.TADs.list;
+package java.tads.list;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

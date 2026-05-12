@@ -1,4 +1,4 @@
-package Java.TADs.stack;
+package java.tads.stack;
 import java.util.Iterator;
 
 /**

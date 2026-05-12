@@ -1,4 +1,4 @@
-package Java.Sorting;
+package java.sorting;
 
 public abstract class Sorting {
     

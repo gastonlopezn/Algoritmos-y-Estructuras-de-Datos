@@ -1,4 +1,4 @@
-package Java.TADs.list;
+package java.tads.list;
 
 /**
  * List represents unbounded sequences of objects of type T.

@@ -1,4 +1,4 @@
-package Java.TADs.queue;
+package java.tads.queue;
 
 import java.util.Iterator;
 

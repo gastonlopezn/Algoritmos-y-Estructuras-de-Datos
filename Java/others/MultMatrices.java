@@ -1,4 +1,4 @@
-package Java.Otros;
+package java.others;
 
 public class MultMatrices{
 

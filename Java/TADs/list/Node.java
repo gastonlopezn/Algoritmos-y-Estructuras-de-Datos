@@ -1,4 +1,4 @@
-package Java.TADs.list;
+package java.tads.list;
 
     public class Node<T> {
         T item;
